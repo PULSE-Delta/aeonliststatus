@@ -4,31 +4,16 @@ repo: aeonliststatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: API Site
+  - name: Main Site
     url: https://aeon-list.com
 
 status-website:
   theme: night
   baseUrl: /aeonliststatus
-  logoUrl: https://paradisebots.net/images/ParadiseBotsLogo.png
-  name: Paradise Bots
-  introTitle: "**Paradise Bot List** Status."
+  logoUrl: 
+  name: aeonliststatus
+  introTitle: "**Aeonlist** Status Padge."
   introMessage: Real time status updates
   navbar:
     - title: Discord
-      href: https://paradisebots.net/join
-    - title: Twitter
-      href: https://twitter.com/ParadiseBotList
-
-i18n:
-  footer: Made with ❤️ By @TheRealToxicDev | All Rights Reserved
-  url: "https://paradisebots.net"
-  status: "Status"
-  history: "History"
-  responseTime: "Response Time"
-  uptime: "Uptime"
-  responseTimeGraphAlt: "Response time graph"
-  allSystemsOperational: "All systems operational"
-  degradedPerformance: "Degraded performance"
-  completeOutage: "Major Outage"
-  partialOutage: "Minor outage"
+      href: https://Discord.gg/.
