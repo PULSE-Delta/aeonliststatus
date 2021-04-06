@@ -1,26 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: PULSE-Delta # Your GitHub username
+repo: aeonliststatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: aeonlist website
+  - name: API Site
     url: https://aeon-list.com
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-cname: https://pulse-delta.github.io/aeonliststatus/
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: 
-  name: Aeon List Status Page
-  introTitle: "This is the officel Aeon-list Status page"
-  introMessage:  Aeon List Status page
+  theme: night
+  # baseUrl: /aeonliststatus
+  logoUrl: https://paradisebots.net/images/ParadiseBotsLogo.png
+  name: Paradise Bots
+  introTitle: "**Paradise Bot List** Status."
+  introMessage: Real time status updates
   navbar:
-    - title: Status
-      href: /
-    - title: Website:
-      href: https://aeon-list.com
+    - title: Discord
+      href: https://paradisebots.net/join
+    - title: Twitter
+      href: https://twitter.com/ParadiseBotList
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Made with ❤️ By @TheRealToxicDev | All Rights Reserved
+  url: "https://paradisebots.net"
+  status: "Status"
+  history: "History"
+  responseTime: "Response Time"
+  uptime: "Uptime"
+  responseTimeGraphAlt: "Response time graph"
+  allSystemsOperational: "All systems operational"
+  degradedPerformance: "Degraded performance"
+  completeOutage: "Major Outage"
+  partialOutage: "Minor outage"
