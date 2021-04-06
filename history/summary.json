@@ -1,20 +1,20 @@
 [
   {
-    "name": "API Site",
+    "name": "Main Site",
     "url": "https://aeon-list.com",
     "icon": "https://favicons.githubusercontent.com/aeon-list.com",
-    "slug": "api-site",
+    "slug": "main-site",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
