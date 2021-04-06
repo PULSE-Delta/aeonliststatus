@@ -9,7 +9,7 @@ sites:
 
 status-website:
   theme: night
-  # baseUrl: /aeonliststatus
+  baseUrl: /aeonliststatus
   logoUrl: https://paradisebots.net/images/ParadiseBotsLogo.png
   name: Paradise Bots
   introTitle: "**Paradise Bot List** Status."
