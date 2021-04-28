@@ -4,17 +4,17 @@
     "url": "https://aeon-list.com",
     "icon": "https://favicons.githubusercontent.com/aeon-list.com",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 324,
-    "timeWeek": 338,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 375,
+    "timeDay": 458,
+    "timeWeek": 371,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   }
 ]
