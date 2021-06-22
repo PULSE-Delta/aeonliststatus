@@ -9,7 +9,6 @@ sites:
 
 status-website:
   theme: night
-  baseUrl: /aeonliststatus
   logoUrl: 
   name: aeonliststatus
   introTitle: "**Aeonlist** Status Padge."
