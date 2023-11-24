@@ -5,8 +5,7 @@ repo: aeonliststatus # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Main Site
-    url: https://aeon-list.com
-
+    url: https://aexon-host.de
 status-website:
   theme: night
   logoUrl: 
